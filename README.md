@@ -6,3 +6,10 @@ Solidworks CAD design of a radial engine
 
 ## Connecting rod
 ![images/connecting rod.jpg?raw=true](https://github.com/Ay-source/Pneumatic-6-Cylinder-Radial-Engine/blob/main/Images/Connecting%20rod.JPG)
+
+## Crankcase Gasket
+![images/Crankcase gasket.jpg?raw=true](https://github.com/Ay-source/Pneumatic-6-Cylinder-Radial-Engine/blob/main/Images/Crankcase%20Gasket.JPG)
+
+
+## Crankshaft Counterweight
+![images/Crankshaft counterweight.jpg?raw=true](https://github.com/Ay-source/Pneumatic-6-Cylinder-Radial-Engine/blob/main/Images/Crankshaft%20Counterweight.JPG)
