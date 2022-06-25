@@ -13,3 +13,6 @@ Solidworks CAD design of a radial engine
 
 ## Crankshaft Counterweight
 ![images/Crankshaft counterweight.jpg?raw=true](https://github.com/Ay-source/Pneumatic-6-Cylinder-Radial-Engine/blob/main/Images/Crankshaft%20Counterweight.JPG)
+
+## Crankshaft Valve Tank
+![images/Crankshaft Valve Tank.jpg?raw=true](https://github.com/Ay-source/Pneumatic-6-Cylinder-Radial-Engine/blob/main/Images/Crankshaft%20valve%20tank.JPG)
