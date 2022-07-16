@@ -33,7 +33,7 @@ Solidworks CAD design of a radial engine
 ![images/Crankcase cover](https://github.com/Ay-source/Pneumatic-6-Cylinder-Radial-Engine/blob/main/Images/Crankcase%20cover.JPG)
 
 ### Crankcase
-![Images/Crankcase.jpg](https://github.com/Ay-source/Pneumatic-6-Cylinder-Radial-Engine/blob/main/Images/Crankcase.JPG))
+![Images/Crankcase.jpg](https://github.com/Ay-source/Pneumatic-6-Cylinder-Radial-Engine/blob/main/Images/Crankcase.JPG)
 
 ### Crankshaft counterweight
 ![Images/Crankshaft counterweight](https://github.com/Ay-source/Pneumatic-6-Cylinder-Radial-Engine/blob/main/Images/Crankshaft%20Counterweight.JPG)
