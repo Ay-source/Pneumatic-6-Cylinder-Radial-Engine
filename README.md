@@ -6,6 +6,7 @@ Solidworks CAD design of a radial engine
 ## Assembly
 
 ### Main Assembly
+![Assembly](https://github.com/Ay-source/Pneumatic-6-Cylinder-Radial-Engine/blob/main/Images/Assembly/Assembly.JPG)
 
 ### Assembly of Crankshaft
 ![Assembly of Crankshaft](https://github.com/Ay-source/Pneumatic-6-Cylinder-Radial-Engine/blob/main/Images/Assembly/Assembly%20Crankshaft.JPG)
